@@ -9,5 +9,6 @@ Potato Zone Optimizer, Modular mechanical keyboard system. W.I.P.
 ![keeb_SZ](https://user-images.githubusercontent.com/13343696/164998278-de8b9f0d-e104-42a2-a536-5f8decaf76ef.jpg)
 
 
-Schematic covered under, Attribution 4.0 International (CC BY 4.0) 
+Schematic covered under, Attribution 4.0 International (CC BY 4.0)
+
 PCB covered under, Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
