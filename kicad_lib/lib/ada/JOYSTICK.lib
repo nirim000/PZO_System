@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# JOYSTICK
+#
+DEF JOYSTICK U 0 40 N Y 1 L N
+F0 "U" -300 530 50 H V L BNN
+F1 "JOYSTICK" -300 -700 50 H V L BNN
+F2 "JOYSTICK" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+DRAW
+T 900 130 -290 70 0 0 0 JOYSTICK Normal 0 L B
+S -300 -600 200 500 0 0 10 f
+X V+ V1 -400 400 100 R 40 40 0 0 B 
+X V V2 -400 300 100 R 40 40 0 0 B 
+X V- V3 -400 200 100 R 40 40 0 0 B 
+X H+ H1 -400 0 100 R 40 40 0 0 B 
+X H H2 -400 -100 100 R 40 40 0 0 B 
+X H- H3 -400 -200 100 R 40 40 0 0 B 
+X SEL+ B1A -400 -400 100 R 40 40 0 0 B 
+X SEL- B2A -400 -500 100 R 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library
