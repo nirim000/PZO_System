@@ -8,6 +8,8 @@ Potato Zone Optimizer, Modular mechanical keyboard system. W.I.P.
 
 ![keeb_SZ](https://user-images.githubusercontent.com/13343696/164998278-de8b9f0d-e104-42a2-a536-5f8decaf76ef.jpg)
 
+FW:https://github.com/nirim000/qmk_firmware
+
 
 Schematic covered under, Attribution 4.0 International (CC BY 4.0)
 
