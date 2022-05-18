@@ -119,4 +119,9 @@
     (solder_mask_margin 0.0508) (tstamp 199dd73d-d928-445b-952f-1c9e8eb58b25))
   (pad "V-" thru_hole oval (at 9 2) (size 3 1.5) (drill 0.9) (layers *.Cu *.Mask)
     (solder_mask_margin 0.0508) (tstamp 6de55029-08b5-4a7b-9f82-234c4057582c))
+  (model "/home/nirim000/kicad_lib/3D/psp.3dshapes/PspJoystick v5.step"
+    (offset (xyz -9 9.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
